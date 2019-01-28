@@ -1,6 +1,8 @@
 {
   "name": "devdacticImages",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "a6a32cae"
 }
